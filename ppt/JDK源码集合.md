@@ -2,6 +2,8 @@
 
 ## String类
 
+test
+
 ```java
 public final class String
     implements java.io.Serializable, Comparable<String>, CharSequence {
